@@ -1,4 +1,4 @@
-package com.ajay.timer
+package com.ajay.btmnav
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

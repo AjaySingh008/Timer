@@ -1,4 +1,4 @@
-package com.ajay.timer
+package com.ajay.btmnav
 
 import org.junit.Test
 
